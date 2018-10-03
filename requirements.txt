@@ -1,0 +1,4 @@
+nltk==3.2.1
+tqdm==4.7.4
+matplotlib
+tensorflow==0.12.1
